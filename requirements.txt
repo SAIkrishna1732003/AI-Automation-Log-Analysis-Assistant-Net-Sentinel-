@@ -1,0 +1,9 @@
+# No external dependencies required
+# Uses only Python Standard Library
+
+# Recommended Python version
+python>=3.8
+
+psutil        # for system monitoring
+scapy         # for advanced packet parsing
+flask         # if you replace http.server
